@@ -15,7 +15,7 @@
   
   <p>Consider a Software Engineer in the US makes on average $141k/yr (Source: <a href="https://www.glassdoor.com/Salaries/software-engineer-salary-SRCH_KO0,17.htm">Glassdoor.com</a>). If these tools save your company 1.5 hours of work per month, you'll make your money back easily! (Which you will, guaranteed!)</p>
   
-  <p>Sure, your team could whip something up and maintain it on their own, but remember the opportunity costs that come with building, maintainting, updating, testing and babysitting software that isn't part of your ccompany's core competencies.</p>
+  <p>Sure, your team could whip something up and maintain it on their own, but remember the opportunity costs that come with building, maintainting, updating, testing and babysitting software that isn't part of your company's core competencies.</p>
   <a href=https://buy.stripe.com/bIY7wggKt0FV1sQ288> <img alt="Static Badge" src="https://img.shields.io/badge/click%20to-subscribe-brightgreen"></a>
 
 
